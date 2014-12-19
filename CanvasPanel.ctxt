@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=_parent
+comment0.target=CanvasPanel(ConvexHullGui)
+comment0.text=\r\nThis\ method\ is\ a\ constructor\ for\ the\ canvas\ panel\r\n
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment1.text=\r\nThis\ method\ is\ responsible\ for\ updating\ the\ graphics\ component\ inside\ the\ canvas\r\n\r\n
+comment2.params=
+comment2.target=void\ changeColor()
+numComments=3
